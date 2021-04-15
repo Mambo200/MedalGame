@@ -11,5 +11,10 @@ namespace MedalCollection
         {
 
         }
+
+        /// <summary>
+        /// Passive Medal Type
+        /// </summary>
+        public override MedalType GetMedalType => MedalType.PASSIVE;
     }
 }

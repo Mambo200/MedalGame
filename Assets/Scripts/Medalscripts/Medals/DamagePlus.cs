@@ -14,6 +14,7 @@ namespace MedalCollection
                 6
                 )
         {
+            // your constructor goes here
         }
     }
 }

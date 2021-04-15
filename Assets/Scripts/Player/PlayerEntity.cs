@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using MedalCollection;
 
 [RequireComponent(typeof(CharacterController), typeof(Rigidbody), typeof(CapsuleCollider))]
 public abstract class PlayerEntity : BMainScript
